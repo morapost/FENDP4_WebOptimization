@@ -2,7 +2,7 @@
 
 ### Running the application:
 
-Navigate to Here you can explore Cam's simple portfolio template,
+Navigate to http://morapost.github.io/FENDP4_WebOptimization/ Here you can explore Cam's simple portfolio template,
 which has been optimized for your viewing pleasure.
 
 Make sure to check out Cam's Pizzeria link, where jank has
